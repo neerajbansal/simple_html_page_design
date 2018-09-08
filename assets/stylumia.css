@@ -1,0 +1,16 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+  }
+  
+  h1,
+  p.lead {
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  nav.navbar.small-logo {
+    min-height: 35px;
+  }
